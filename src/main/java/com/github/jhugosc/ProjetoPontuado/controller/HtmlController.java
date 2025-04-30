@@ -14,9 +14,4 @@ public String index() {
 public String home() {
     return "home";
 }
-
-@RequestMapping("/projeto/getAll")
-public String infos() {
-    return "infos";
-}
 }
