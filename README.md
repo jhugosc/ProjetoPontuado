@@ -26,10 +26,7 @@ Este projeto foi desenvolvido como parte de uma **avaliação da disciplina Prog
 
 2. Abra com sua IDE (recomendo IntelliJ ou VS Code com extensões Spring)
 
-3. Rode a aplicação:
-   ```bash
-   ./mvnw spring-boot:run
-   ```
+3. Rode a aplicação
 
 4. Acesse no navegador:
    - Página inicial: `http://localhost:8080/projeto`
